@@ -1,1 +1,1 @@
-# exercise-tracker
+# mern-exercise-tracker
